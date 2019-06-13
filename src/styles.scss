@@ -1,0 +1,15 @@
+/* You can add global styles to this file, and also import other style files */
+@font-face {
+    font-family: 'Pacifico';
+    font-style: normal;
+    font-weight: 400;
+    src: url('/assets/Fonts/Pacifico/Pacifico-Regular.ttf');
+}
+
+html, body {
+    font-family: 'Pacifico';
+    width: 100%;
+    max-width: 100%;
+}
+
+html { background-color: #DAE0F2 }
